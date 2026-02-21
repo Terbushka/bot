@@ -8,7 +8,7 @@ from bot import LOGGER
 class Config:
     AS_DOCUMENT = False
     AUTHORIZED_CHATS = ""
-    PRIVATE_CHANNEL = ""
+    PRIVATE_CHANNEL = "-1003723617266"
     BASE_URL = ""
     BASE_URL_PORT = 80
     BOT_TOKEN = ""
